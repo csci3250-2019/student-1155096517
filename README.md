@@ -1,5 +1,6 @@
 # Student info
 *Name: Law Pak Hang*
+
 Hi, I am **Tim**
 
 # Known Program language
@@ -11,10 +12,10 @@ Hi, I am **Tim**
 * CSS
 
 # What is finished in this course
- - [x] visit reports
- - [x] individual article
- - [ ] blog post comment and rating
- - [x] Presentation
+- [x] visit reports
+- [x] individual article
+- [ ] blog post comment and rating
+- [x] Presentation
 
 # Taking course
 | Course code | Course name |
